@@ -1,5 +1,5 @@
 language programming in programmer :
-1. JS(JavaScript)
+1. JS
 2. PHP
 3. Python
 4. Java
@@ -11,4 +11,4 @@ framework programming :
 2. django
 3. tailwind
 4. dart
-5. Vue
+5. React
